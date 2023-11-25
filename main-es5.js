@@ -1722,10 +1722,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           url: "https://www.freelancer.com/u/WorkWithSambath",
           tooltip: "Hire me on Freelancer",
           icon: "fa fa-laptop"
-        }, {
-          url: "https://www.instagram.com/sambath_sams/",
-          tooltip: "Follow me on Instagram",
-          icon: "fa fa-instagram"
         }];
       }
 

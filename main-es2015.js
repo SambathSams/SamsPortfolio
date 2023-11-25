@@ -1047,11 +1047,6 @@ let IntroComponent = class IntroComponent {
                 tooltip: "Hire me on Freelancer",
                 icon: "fa fa-laptop"
             },
-            {
-                url: "https://www.instagram.com/sambath_sams/",
-                tooltip: "Follow me on Instagram",
-                icon: "fa fa-instagram"
-            },
         ];
     }
     ngOnInit() {
